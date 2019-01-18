@@ -1,4 +1,4 @@
-
+zheng tao can learning anything!!!
 ## Classical Aerodynamics with Python
 
 The _AeroPython_ series of lessons is the core of a university course (Aerodynamics-Hydrodynamics, MAE-6226) by Prof. Lorena A. Barba at the George Washington University. The first version ran in Spring 2014 and these Jupyter Notebooks were prepared for that class, with assistance from Barba-group PhD student Olivier Mesnard. In Spring 2015, revised and extended the collection, adding student assignments to strengthen the learning experience. The course is also supported by an open learning space in the [GW SEAS Open edX](https://openedx.seas.gwu.edu/) platform.
@@ -43,12 +43,12 @@ The materials are distributed publicly and openly under a Creative Commons Attri
 
 To use these lessons, you need Python 3, and the standard stack of scientific Python: NumPy, Matplotlib, SciPy. And of course, you need [Jupyter](http://jupyter.org)—an interactive computational environment that runs on a web browser.
 
-This mini-course is built as a set of [Jupyter notebooks](https://jupyter-notebook.readthedocs.org/en/latest/notebook.html) containing the written materials and worked-out solutions on Python code. To work with the material, we recommend that you start each lesson with a fresh new notebook, and follow along, typing each line of code (don't copy-and-paste!), and exploring by changing parameters and seeing what happens. 
+This mini-course is built as a set of [Jupyter notebooks](https://jupyter-notebook.readthedocs.org/en/latest/notebook.html) containing the written materials and worked-out solutions on Python code. To work with the material, we recommend that you start each lesson with a fresh new notebook, and follow along, typing each line of code (don't copy-and-paste!), and exploring by changing parameters and seeing what happens.
 
 
 #### Installing via Anaconda
-We *highly* recommend that you install the [Anaconda Python Distribution](http://docs.continuum.io/anaconda/install). It will make your life so much easier. 
-You can download and install Anaconda on Windows, OSX, and Linux. 
+We *highly* recommend that you install the [Anaconda Python Distribution](http://docs.continuum.io/anaconda/install). It will make your life so much easier.
+You can download and install Anaconda on Windows, OSX, and Linux.
 
 After installing, to ensure that your packages are up to date, run the following commands in a terminal:
 
@@ -82,7 +82,7 @@ pip install numpy scipy matplotlib
 
 ### Running the notebook server
 
-Once Jupyter is installed, open up a terminal and then run 
+Once Jupyter is installed, open up a terminal and then run
 
 ```Bash
 jupyter notebook
@@ -92,11 +92,11 @@ This will start up a Jupyter session in your browser!
 
 ## How to contribute to AeroPython
 
-We accept contributions via pull request. You can also open an issue if you find a bug, or have a suggestion. 
+We accept contributions via pull request. You can also open an issue if you find a bug, or have a suggestion.
 
 ## Copyright and License
 
-(c) 2017 Lorena A. Barba, Olivier Mesnard. All content is under Creative Commons Attribution [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code is under BSD-3 clause](https://github.com/barbagroup/AeroPython/blob/master/LICENSE) (previously under MIT, and changed on November 12, 2018). 
+(c) 2017 Lorena A. Barba, Olivier Mesnard. All content is under Creative Commons Attribution [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code is under BSD-3 clause](https://github.com/barbagroup/AeroPython/blob/master/LICENSE) (previously under MIT, and changed on November 12, 2018).
 
 We are happy if you re-use the content in any way!
 
